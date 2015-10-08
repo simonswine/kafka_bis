@@ -1,0 +1,43 @@
+{
+	"ImportPath": "github.com/simonswine/kafka_bis",
+	"GoVersion": "go1.5.1",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Shopify/sarama",
+			"Comment": "v1.6.1-6-gf0e1e8a",
+			"Rev": "f0e1e8afb3b67d285dc988fc9c71ed26436827ac"
+		},
+		{
+			"ImportPath": "github.com/Sirupsen/logrus",
+			"Comment": "v0.6.2-10-g51fe59a",
+			"Rev": "51fe59aca108dc5680109e7b2051cbdcfa5a253c"
+		},
+		{
+			"ImportPath": "github.com/eapache/go-resiliency/breaker",
+			"Comment": "v1.0.0-3-gf341fb4",
+			"Rev": "f341fb4dca45128e4aa86389fa6a675d55fe25e1"
+		},
+		{
+			"ImportPath": "github.com/eapache/queue",
+			"Comment": "v1.0.2",
+			"Rev": "ded5959c0d4e360646dc9e9908cff48666781367"
+		},
+		{
+			"ImportPath": "github.com/golang/snappy",
+			"Rev": "723cc1e459b8eea2dea4583200fd60757d40097a"
+		},
+		{
+			"ImportPath": "github.com/jeffail/gabs",
+			"Rev": "feb7ecb58978ab279e4ac7f195f7c8fd26cf4469"
+		},
+		{
+			"ImportPath": "github.com/klauspost/crc32",
+			"Rev": "f8d2e12057f7ef26ae42ecfa42697f4bdc32d7eb"
+		},
+		{
+			"ImportPath": "github.com/olivere/elastic",
+			"Comment": "v2.0.12-16-g7f43b4a",
+			"Rev": "7f43b4a46aaada2119956409b5eed02c75945f99"
+		}
+	]
+}
